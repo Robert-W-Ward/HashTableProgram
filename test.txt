@@ -1,0 +1,21 @@
+new akk5 test
+new misfit were
+new morty treasure
+new loopy circle
+new yloop mentat
+new stan123 lawrence
+new xmnpp mammie
+display
+home akk5 /user/root
+home misfit /lost/found/misfit
+remove yloop
+display
+new larry 1234
+new sam64 wereRU
+new mxtp1 sooperDude
+new timmy timmy
+display
+new rarly soSad
+new stan133 comicX
+new slippy tiptop
+display
